@@ -7,6 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+    "homepage": "https://jamal0099.github.io/sobiabeautysalon"
+
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
